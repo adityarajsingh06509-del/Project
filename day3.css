@@ -1,0 +1,36 @@
+ h1{
+    background-image:linear-gradient(to right, red ,blue , orange , pink , green);
+    color: white;
+    text-align: center;
+    height: 150px;
+    padding-top: 40px;
+    margin: 10px 10px;
+    border:10px solid black;
+    border-radius: 10px ;
+
+}
+nav {
+    background-image: linear-gradient(to left ,red , white, yellow , blue);
+    height: 50px;
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+    margin: 5px 10px;
+
+    
+}
+para {
+        background-image: linear-gradient(to right ,red , rgb(15, 4, 67), white, yellow , blue);
+    padding-top: 40px ;
+    font-size: 15px;
+    margin: 50px; ;
+
+
+}
+
+.container{
+        background-image: linear-gradient(to right  ,rgb(145, 221, 24) , white, yellow , blue);
+    display: flex;
+}
